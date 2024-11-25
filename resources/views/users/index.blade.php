@@ -21,7 +21,7 @@
     <div class="container" style="margin-top: 50px">
         <div class="row">
             <div class="col-md-12">
-                <h4 class="text-center">LARAVEL CRUD AJAX - <a href="https://santrikoding.com">WWW.SANTRIKODING.COM</a></h4>
+                <h4 class="text-center">LARAVEL CRUD AJAX</a></h4>
                 <div class="card border-0 shadow-sm rounded-md mt-4">
                     <div class="card-body">
                         <a href="javascript:void(0)" class="btn btn-success mb-2" id="btn-create-post">TAMBAH</a>
